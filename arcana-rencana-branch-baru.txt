@@ -2,5 +2,6 @@ Rencana New Arcana
 - Membuat Module baru
   * agar lebih simple
   * pakai library baru
+- Struktur data new
 - membuat rencana baru
 - try changes
