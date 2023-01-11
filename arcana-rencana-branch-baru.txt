@@ -3,6 +3,7 @@ Rencana New Arcana
   * agar lebih simple
   * pakai library baru
   ^ menggunakan React
+  ^ menggunakan Angular
 - Struktur data new
 - membuat rencana baru
   * membuat Flow
