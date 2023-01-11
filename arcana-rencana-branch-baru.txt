@@ -5,5 +5,5 @@ Rencana New Arcana
   ^ menggunakan React
 - Struktur data new
 - membuat rencana baru
-  * membuat Flow 
+  * membuat Flow
 - try changes
