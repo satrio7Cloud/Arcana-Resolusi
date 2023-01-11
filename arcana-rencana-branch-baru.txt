@@ -2,6 +2,8 @@ Rencana New Arcana
 - Membuat Module baru
   * agar lebih simple
   * pakai library baru
-- Struktur data new
+   ^ Angular 
+   ^ Vue
 - membuat rencana baru
+  * membuat flow baru
 - try changes
