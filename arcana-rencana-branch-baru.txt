@@ -1,0 +1,6 @@
+Rencana New Arcana 
+- Membuat Module baru
+  * agar lebih simple
+  * pakai library baru
+- membuat rencana baru
+- try changes
