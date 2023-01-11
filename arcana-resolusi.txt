@@ -2,5 +2,5 @@ Arcana Resolusi
 - Konsisten membuat konten / project
 - Membuat platform untuk pengelolaan
 - Membuat forum diskusi
-- Membuat merc shop
 - kolaborasi dengan lebih banyak expert
+- Membuat software yang banyak di pakai semua orang 
