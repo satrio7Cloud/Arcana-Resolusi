@@ -2,6 +2,8 @@ Rencana New Arcana
 - Membuat Module baru
   * agar lebih simple
   * pakai library baru
+  ^ menggunakan React
 - Struktur data new
 - membuat rencana baru
+  * membuat Flow 
 - try changes
